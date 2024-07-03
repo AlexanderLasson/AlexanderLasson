@@ -9,7 +9,7 @@
 
 
 
+![Your Badge Alt Text](https://images.credly.com/size/110x110/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)
 
-  ![Unity Essentials Badge](https://www.credly.com/badges/cf70db0c-f605-405c-bb0e-17caa1942a68/public_url)
 
 
