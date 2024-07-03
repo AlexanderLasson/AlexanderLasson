@@ -10,4 +10,5 @@
 
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf70db0c-f605-405c-bb0e-17caa1942a68" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Unity Essentials Badge](https://www.credly.com/path-to-your-badge-image.png)
+
