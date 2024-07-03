@@ -10,5 +10,6 @@
 
 
 
-![Unity Essentials Badge](https://www.credly.com/path-to-your-badge-image.png)
+  ![Unity Essentials Badge](https://www.credly.com/badges/cf70db0c-f605-405c-bb0e-17caa1942a68/public_url)
+
 
