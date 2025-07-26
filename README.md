@@ -23,20 +23,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
 </div>
 
 ###
 
 <p align="left">🚀 Full-Stack Software Developer | React, Django, DevOps<br>🎯 Focused on building performant, scalable projects with great developer experience<br><br>Currently:<br><br>🛡️ Software Developer at CACI, contributing to internal tooling and government-facing software<br>🚀 Fullstack Engineer, helping build and ship early-stage product with fast iterations and lean architecture</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/AlexanderLasson/AlexanderLasson/output/snake.svg" alt="Snake animation" />
 
 ###
 
