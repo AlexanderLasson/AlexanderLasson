@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🚀 Full-Stack Software Developer | React, Django, DevOps<br>🎯 Focused on building performant, scalable projects with great developer experience<br><br>Currently:<br><br>📡 Software Developer at CACI, contributing to internal tooling and government-facing software<br>💻 Fullstack Engineer, helping build and ship early-stage product with fast iterations and lean architecture</p>
+<p align="left">🚀 Full-Stack Software Developer<br>🎯 Focused on building performant, scalable projects with great developer experience<br><br>Currently:<br><br>📡 Software Developer at CACI, contributing to internal tooling and government-facing software<br>💻 Fullstack Engineer, helping build and ship early-stage product with fast iterations and lean architecture</p>
 
 ###
 <div align="left">
