@@ -1,10 +1,8 @@
 <h1 align="center">Alexander Lasson</h1>
 
-<img src="https://raw.githubusercontent.com/AlexanderLasson/AlexanderLasson/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<p align="left">🚀 Full-Stack Software Developer<br>🎯 Focused on building performant, scalable projects with great developer experience<br><br>Currently:<br><br>📡 Software Developer at CACI, contributing to internal tooling and government-facing software<br>💻 Fullstack Engineer, helping build and ship early-stage product with fast iterations and lean architecture</p>
+<p align="left"> Full-Stack Software Developer<br> Focused on building performant, scalable projects with great developer experience<br><br>Currently:<br><br> Software Developer at CACI, contributing to internal tooling and government-facing software<br>Fullstack Engineer, helping build and ship early-stage product with fast iterations and lean architecture</p>
 
 ###
 <div align="left">
